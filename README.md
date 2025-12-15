@@ -10,6 +10,5 @@ A music gallery website created using HTML, CSS, and JavaScript.
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
 # music-galery
 A responsive music gallery web application with audio playback features.
